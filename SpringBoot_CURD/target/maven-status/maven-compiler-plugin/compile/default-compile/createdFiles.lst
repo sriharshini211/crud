@@ -1,0 +1,9 @@
+com\nagarro\repository\BookRepository.class
+com\nagarro\services\LoginService.class
+com\nagarro\SpringcrudappApplication.class
+com\nagarro\repository\LoginRepository.class
+com\nagarro\model\UserModel.class
+com\nagarro\model\BookModel.class
+com\nagarro\controller\MainController.class
+com\nagarro\services\BookService.class
+com\nagarro\controller\LoginController.class
